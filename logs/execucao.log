@@ -1,0 +1,28 @@
+2025-06-18 23:14:33,174 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-18 23:14:33,178 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-18 23:14:33,480 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-18 23:14:35,971 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")
+2025-06-18 23:15:24,174 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-18 23:15:24,175 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-18 23:15:24,478 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-18 23:15:26,373 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")
+2025-06-18 23:17:51,044 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-18 23:17:51,045 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-18 23:17:51,396 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-18 23:17:53,749 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")
+2025-06-18 23:25:07,633 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-18 23:25:07,633 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-18 23:25:08,755 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-18 23:25:11,281 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")
+2025-06-18 23:26:36,955 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-18 23:26:36,955 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-18 23:26:37,300 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-18 23:26:39,184 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")
+2025-06-19 15:16:34,572 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-19 15:16:34,580 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-19 15:16:34,826 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-19 15:16:37,549 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")
+2025-06-19 15:37:42,649 - \U0001f50d Acessando menu de aplicativos via busca
+2025-06-19 15:37:42,657 - Clicando no elemento: ('xpath', "//android.widget.Button[@content-desc='Pesquisar nas Configurações']")
+2025-06-19 15:37:42,956 - Digitando no campo ('id', 'com.android.settings.intelligence:id/search_src_text'): 'Aplicativos'
+2025-06-19 15:37:45,516 - Clicando no elemento: ('xpath', "//android.widget.TextView[contains(@text, 'Aplicativos')]")

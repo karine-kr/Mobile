@@ -2,6 +2,7 @@ from behave import given, when, then
 from pages.configuracoes_page import PaginaConfiguracoes
 from pages.appium_settings_page import PaginaAppiumSettings
 from pages.permissoes_page import PaginaPermissoes
+
 @given("que estou na tela inicial de Configurações")
 def step_impl(context):
    context.pagina_configuracoes = PaginaConfiguracoes(context.driver)
@@ -10,7 +11,8 @@ def step_impl(context):
    # context.paginaconfiguracoes.acessar_apps()
    context.pagina_configuracoes.ver_todos_os_apps()
    context.pagina_appium = PaginaAppiumSettings(context.driver)
-   context.pagina_appium.selecionar_appium_settings()
+   context.tela_aplicativos.buscar_app('Appium Settings')
+   # context.pagina_appium.selecionar_appium_settings()
    context.pagina_permissoes = PaginaPermissoes(context.driver)
    context.pagina_permissoes.acessar_permissoes()
    context.pagina_permissoes.acessar_localizacao()
