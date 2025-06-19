@@ -7,7 +7,7 @@ def step_impl(context):
    context.pagina_configuracoes = PaginaConfiguracoes(context.driver)
 @when("navego até as permissões de Localização do Appium Settings")
 def step_impl(context):
-   context.pagina_configuracoes.acessar_apps()
+   # context.paginaconfiguracoes.acessar_apps()
    context.pagina_configuracoes.ver_todos_os_apps()
    context.pagina_appium = PaginaAppiumSettings(context.driver)
    context.pagina_appium.selecionar_appium_settings()
